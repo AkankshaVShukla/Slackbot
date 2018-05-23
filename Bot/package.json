@@ -1,0 +1,19 @@
+{
+  "name": "slackbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botkit": "^0.5.8",
+    "botkit-helper-slack": "0.0.1",
+    "nock": "^9.0.25",
+    "request": "^2.83.0",
+    "slackbots": "^0.5.1",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
